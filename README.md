@@ -19,5 +19,5 @@
 💞️ Open to collaborating on impactful, real-world projects  
 
 📫 **How to reach me**
-- LinkedIn: https://www.linkedin.com/in/your-link
-- Portfolio: https://your-portfolio.vercel.app
+- LinkedIn: https://www.linkedin.com/in/aniket-bisht-062520319/
+- Portfolio: construction under work 
