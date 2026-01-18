@@ -3,14 +3,25 @@
 <!--
 **Aniketbisht31/Aniketbisht31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi, I’m Aniket Bisht  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 I’m interested in backend engineering, full-stack development, SaaS, and data-driven systems  
+
+🌱 Currently learning and building with cloud-native architectures and applied data science  
+
+🎓 B.Tech CSE (Cloud Computing) @ SRM Institute of Science and Technology  
+
+📄 **My Resume / CV**  
+👉 [Download My CV](./Aniket_Bisht_CV.pdf)
+
+💼 **Technical Focus**
+- Backend: Node.js, Java, Python
+- Databases: PostgreSQL, MongoDB
+- Cloud & DevOps: AWS, Docker
+- Data Science & ML: TensorFlow, OpenCV
+
+💞️ Open to collaborating on impactful, real-world projects  
+
+📫 **How to reach me**
+- LinkedIn: https://www.linkedin.com/in/your-link
+- Portfolio: https://your-portfolio.vercel.app
