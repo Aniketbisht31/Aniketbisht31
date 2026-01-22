@@ -40,30 +40,26 @@
 
 ## 🧠 DeskCo — Personal Desktop Assistant (WIP)
 
-I’m currently building **DeskCo**, a productivity-focused desktop app  
-that lets users control their computer, find files, and run AI text  
-actions instantly from a single command bar.
+I’m currently building DeskCo, a desktop app focused on productivity. It allows users to control their computer, find files, and run AI text actions instantly from a single command bar. 
 
-The goal is to reduce friction in everyday computer usage —  
-no app switching, no prompt writing, no cluttered UIs.
+The goal is to make everyday computer use smoother. There’s no app switching, no prompt writing, and no messy user interfaces.
 
-**What it can do (in progress):**
-- 🚀 Launch apps & folders  
-- 🌐 Open websites using natural commands  
-- 🔍 Find local files instantly  
-- ➗ Run quick calculations & conversions  
-- ✍️ Summarize / rewrite / translate copied text with AI  
+What it can do :
 
-**Why this project matters to me:**  
-I’m focused on building practical tools that people would actually  
-use daily — not just demo apps or hackathon-only projects.
+- Launch apps and folders
+- Open websites using natural commands
+- Find local files instantly
+- Run quick calculations and conversions
+- Summarize, rewrite, or translate copied text with AI
 
-**Stack:**  
-Electron • React • Node.js • OpenAI API  
+Why this project matters to me: 
+I want to create practical tools that people will actually use daily. I’m not interested in just demo apps or projects for hackathons.
 
-**Status:**  
-🛠 Actively building (Jan 2026 MVP sprint)
+Stack: 
+Electron, React, Node.js, OpenAI API
 
+Status: 
+Actively building (Jan 2026 MVP sprint)
 ---
 
 *More features coming soon.*
