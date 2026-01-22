@@ -33,3 +33,19 @@
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Aniketbisht31/Aniketbisht31/output/github-contribution-grid-snake.svg">
 </picture>
 
+### 💡 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+### 📈 My Coding Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketbisht31&theme=tokyo-night&hide_border=true" />
+<details>
+<summary>🧩 Click to reveal a secret</summary>
+
+```python
+def life():
+    while True:
+        learn()
+        build()
+        fail()
+        repeat()
