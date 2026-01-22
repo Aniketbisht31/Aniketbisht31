@@ -21,3 +21,8 @@
 📫 **How to reach me**
 - LinkedIn: https://www.linkedin.com/in/aniket-bisht-062520319/
 - Portfolio: construction under work 
+### 🚀 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,mongodb,mysql,postgres,solidity,aws,git,docker,linux" />
+</p>
