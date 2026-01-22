@@ -36,16 +36,36 @@
 ### 💡 Dev Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-### 📈 My Coding Activity
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketbisht31&theme=tokyo-night&hide_border=true" />
-<details>
-<summary>🧩 Click to reveal a secret</summary>
+## 🧠 DeskCo — Personal Desktop Assistant (WIP)
 
-```python
-def life():
-    while True:
-        learn()
-        build()
-        fail()
-        repeat()
+I’m currently building **DeskCo**, a productivity-focused desktop app  
+that lets users control their computer, find files, and run AI text  
+actions instantly from a single command bar.
+
+The goal is to reduce friction in everyday computer usage —  
+no app switching, no prompt writing, no cluttered UIs.
+
+**What it can do (in progress):**
+- 🚀 Launch apps & folders  
+- 🌐 Open websites using natural commands  
+- 🔍 Find local files instantly  
+- ➗ Run quick calculations & conversions  
+- ✍️ Summarize / rewrite / translate copied text with AI  
+
+**Why this project matters to me:**  
+I’m focused on building practical tools that people would actually  
+use daily — not just demo apps or hackathon-only projects.
+
+**Stack:**  
+Electron • React • Node.js • OpenAI API  
+
+**Status:**  
+🛠 Actively building (Jan 2026 MVP sprint)
+
+---
+
+*More features coming soon.*
+![Build Status](https://img.shields.io/badge/Status-Building-orange)
+![Product Type](https://img.shields.io/badge/Product-SaaS-blue)
