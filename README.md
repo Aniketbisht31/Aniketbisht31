@@ -38,7 +38,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 ---
 
-## 🧠 DeskCo — Personal Desktop Assistant (WIP)
+##   DeskCo — Personal Desktop Assistant (WIP)
 
 I’m currently building DeskCo, a desktop app focused on productivity. It allows users to control their computer, find files, and run AI text actions instantly from a single command bar. 
 
