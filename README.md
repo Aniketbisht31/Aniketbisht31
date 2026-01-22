@@ -24,7 +24,8 @@
 ### 🚀 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,mongodb,mysql,postgres,solidity,aws,git,docker,linux" />
-![Snake animation](https://raw.githubusercontent.com/Aniketbisht31/Aniketbisht31/output/github-contribution-grid-snake.svg)
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,mongodb,mysql,postgres,solidity,aws,git,docker" />
+</p>
 
+![Snake animation](https://raw.githubusercontent.com/Aniketbisht31/Aniketbisht31/output/github-contribution-grid-snake.svg)
 
