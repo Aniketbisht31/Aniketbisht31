@@ -26,4 +26,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,mongodb,mysql,postgres,solidity,aws,git,docker,linux" />
 </p>
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+### 📊 GitHub Stats
+
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
