@@ -26,5 +26,5 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,mongodb,mysql,postgres,solidity,aws,git,docker,linux" />
 </p>
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Aniketbisht31/raw/output/github-contribution-grid-snake.svg)
 
