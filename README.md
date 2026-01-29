@@ -15,7 +15,10 @@
 - Data Science & ML: TensorFlow, OpenCV
 ## 📄 Resume
 
-👉 [View My Resume (PDF)](./Aniket_Bisht_cv (2).pdf)
+## 📄 Resume
+
+👉 [View My Resume (PDF)](./Aniket_Bisht_cv%20(2).pdf)
+
 💞️ Open to collaborating on impactful, real-world projects  
 
 📫 **How to reach me**
