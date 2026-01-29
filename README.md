@@ -13,7 +13,9 @@
 - Databases: PostgreSQL, MongoDB
 - Cloud & DevOps: AWS, Docker
 - Data Science & ML: TensorFlow, OpenCV
+## 📄 Resume
 
+👉 [View My Resume (PDF)](./Aniket_Bisht_cv (2).pdf)
 💞️ Open to collaborating on impactful, real-world projects  
 
 📫 **How to reach me**
