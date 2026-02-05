@@ -1,7 +1,7 @@
 
 👋 Hi, I’m Aniket Bisht  
 
-👀 I’m interested in backend engineering, full-stack development, SaaS, and data-driven systems  
+👀 I’m interested in AIML, full-stack development, SaaS, and data-driven systems  
 
 🌱 Currently learning and building Scalable systems with cloud-native architectures and applied data science  
 
@@ -10,9 +10,12 @@
 
 💼 **Technical Focus**
 - Backend: Node.js, Java, Python
-- Databases: PostgreSQL, MongoDB
+- frontend: react.js, Next.js, HTML,CSS
+- Databases & INFRA: PostgreSQL, MongoDB, AWS, GCP, VERCEL
 - Cloud & DevOps: AWS, Docker
-- Data Science & ML: TensorFlow, OpenCV
+- Data Science & ML: TensorFlow, OpenCV, LLMs, prompt engineering, LLM based Agents
+- ML & Data: Recommendation System, data scraping & normalization, feature extraction, Analytical pipelines
+- Systems & Performance: Multiprocessing, Inter-Process Communication(IPC), Asynchronous Workflows(celery)
 
 ## 📄 Resume
 👉 [View My Resume (PDF)](./Aniket_Bisht_cv%20(2).pdf)
