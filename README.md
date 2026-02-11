@@ -13,7 +13,7 @@
 - frontend: react.js, Next.js, HTML,CSS
 - Databases & INFRA: PostgreSQL, MongoDB, AWS, GCP, VERCEL
 - Cloud & DevOps: AWS, Docker
-- Data Science & ML: TensorFlow, OpenCV, LLMs, prompt engineering, LLM based Agents
+- AI / ML & Generative AI : TensorFlow, OpenCV, LangChain, LLM-based Agents, Prompt Engineering, Retrieval-Augmented Generation (RAG), AI Workflow Automation
 - ML & Data: Recommendation System, data scraping & normalization, feature extraction, Analytical pipelines
 - Systems & Performance: Multiprocessing, Inter-Process Communication(IPC), Asynchronous Workflows(celery)
 
