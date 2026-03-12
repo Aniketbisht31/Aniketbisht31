@@ -18,7 +18,7 @@
 - Systems & Performance: Multiprocessing, Inter-Process Communication(IPC), Asynchronous Workflows(celery)
 
 ## 📄 Resume
-👉 [View My Resume (PDF)](./Aniket_Bisht_cv%20(2).pdf)
+👉 [View My Resume (PDF)](Aniket.Bisht_Resume.2026.pdf)
 
 💞️ Open to collaborating on impactful, real-world projects  
 
