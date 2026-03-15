@@ -24,7 +24,7 @@
 
 📫 **How to reach me**
 - LinkedIn: https://www.linkedin.com/in/aniket-bisht-062520319/
-- Portfolio: construction under work 
+  
 ### 🚀 Languages & Tools
 
 <p align="left">
