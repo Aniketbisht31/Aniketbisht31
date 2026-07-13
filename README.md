@@ -17,8 +17,6 @@
 - ML & Data: Recommendation System, data scraping & normalization, feature extraction, Analytical pipelines
 - Systems & Performance: Multiprocessing, Inter-Process Communication(IPC), Asynchronous Workflows(celery)
 
-## 📄 Resume
-👉 [View My Resume (PDF)](RESUMEFANG.pdf)
 
 💞️ Open to collaborating on impactful, real-world projects  
 
