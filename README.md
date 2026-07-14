@@ -22,6 +22,8 @@
 
 📫 **How to reach me**
 - LinkedIn: https://www.linkedin.com/in/aniket-bisht-062520319/
+- X : https://x.com/AniketB22402
+- mail : bishtanikethx7312006@gmail.com 
   
 ### 🚀 Languages & Tools
 
