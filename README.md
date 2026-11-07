@@ -5,7 +5,7 @@
 
 🌱 Currently learning and building Scalable systems with cloud-native architectures and applied data science  
 
-🎓 B.Tech CSE (Cloud Computing) @ SRM Institute of Science and Technology  
+🎓 B.Tech CSE (Cloud Computing)  
 
 
 💼 **Technical Focus**
